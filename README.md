@@ -1,2 +1,3 @@
 # Git
-going to learn git 
+this repo is only for to 
+learn git 
